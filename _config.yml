@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-language:
+title: 马sir的博客
+subtitle: java技术博客,偶尔会吐槽
+description: 我是什么时候意识到自己可以创造奇迹的?
+author: 马睿隆
+language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://www.itmasir.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -71,3 +71,7 @@ deploy:
   type: git
   repo: https://github.com/maruilong/maruilong.github.io.git
   branch: master
+
+
+canvas_nest: true
+
