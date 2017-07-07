@@ -65,6 +65,14 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: hexo-theme-icarus
 
+# 自定义站点内容搜索
+# 需要先安装插件：
+# npm install hexo-generator-search --save
+search:
+  path: search.xml
+  # 如只想索引文章，可设置为post
+  field: all 
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
