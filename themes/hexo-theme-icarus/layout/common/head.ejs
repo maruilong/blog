@@ -52,5 +52,7 @@
       var hm = document.createElement("script");
       hm.src = "https://hm.baidu.com/hm.js?abd519336376c4957f2736fba654af13";
       var s = document.getElementsByTagName("script")[0]; 
-    </script>
+      s.parentNode.insertBefore(hm, s);
+    })();
+</script>
 </head>
