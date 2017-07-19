@@ -1,8 +1,9 @@
 # Menus
 menu:
-  主页: .
-  目录: archives
-  关于我: about
+  首页: .
+  归档: archives
+  标签: tags
+  分类: categories
 
 # Customize
 customize:
@@ -84,3 +85,5 @@ miscellaneous:
         google_plus:
     links:
         Hexo: http://hexo.io
+# CNZZ id
+cnzz: 1262959085
