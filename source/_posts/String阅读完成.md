@@ -1,7 +1,10 @@
 ---
 title: String阅读完成
 date: 2017-07-07 22:47:42
-tags:
+categories : "java编程思想"
+tags : 
+ 	- java编程思想
+	- String
 ---
 
 # 完成think_in_java String 阅读
