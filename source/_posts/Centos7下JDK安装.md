@@ -22,6 +22,8 @@ SSH工具和FTP工具推荐使用:[XSHELL](https://www.netsarang.com/xshell_down
 
 
 
+<!-- more -->
+
 ## 使用rpm命令安装JDK
 
 服务器版本请使用64位!
