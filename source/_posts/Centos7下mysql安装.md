@@ -1,6 +1,6 @@
 ---
-title: Centos7下JDK安装
-date: 2017-07-19 16:36:36
+title: Centos7下MYSQL安装
+date: 2017-07-20 10:36:36
 categories : "linux"
 tags : [linux,mysql]
         
